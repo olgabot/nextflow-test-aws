@@ -1,0 +1,10 @@
+digraph "dag" {
+p0 [label="splitLetters"];
+p1 [label="convertToUpper"];
+p0 -> p1 [label="letters"];
+
+p1 [label="convertToUpper"];
+p2 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="subscribe"];
+p1 -> p2 [label="result"];
+
+}

@@ -1,0 +1,2 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	rss	vmem	rchar	wchar
+1	30/fd8289	9b068fe2-4c17-4e20-93f6-503663405719	splitLetters	FAILED	-	2019-03-06 18:45:45.095	5m 48s	331ms	-	-	-	-	-
